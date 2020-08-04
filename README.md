@@ -1,2 +1,2 @@
 # lebron16
- landing page for a sneaker
+ A simple product page for my favorite sneaker, LeBron 16
